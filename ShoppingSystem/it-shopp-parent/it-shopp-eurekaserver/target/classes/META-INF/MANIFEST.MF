@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: zhoujianfeng
+Build-Jdk: 12.0.1
+Implementation-Title: it-shopp-eurekaserver
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.it
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/it-shopp-paren
+ t/it-shopp-eurekaserver/
+Created-By: Maven Integration for Eclipse
+

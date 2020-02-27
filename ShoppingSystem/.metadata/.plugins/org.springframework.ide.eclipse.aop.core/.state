@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="it-shopp-member-api"/>
+<aop-project name="it-shopp-member"/>
+<aop-project name="it-shopp-eurekaserver"/>
+<aop-project name="it-shopp-common"/>
+</aop-reference-model>
